@@ -695,7 +695,15 @@ Reference: http://blog.rrwd.nl/2015/04/04/the-screen-reader-text-class-why-and-h
   display: block; }
 
 /* End: Error */
-/* line 10, /Users/arnoldoheredia/Desktop/movie-trailer/scss/_global.scss */
+/* line 9, /Users/arnoldoheredia/Desktop/movie-trailer/scss/_global.scss */
+h1 {
+  color: white; }
+
+/* line 12, /Users/arnoldoheredia/Desktop/movie-trailer/scss/_global.scss */
+article {
+  color: white; }
+
+/* line 17, /Users/arnoldoheredia/Desktop/movie-trailer/scss/_global.scss */
 video {
   max-width: 100%;
   width: 100%; }
