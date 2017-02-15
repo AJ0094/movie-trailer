@@ -697,11 +697,12 @@ Reference: http://blog.rrwd.nl/2015/04/04/the-screen-reader-text-class-why-and-h
 /* End: Error */
 /* line 16, /Users/aheredia/Desktop/movie-trailer/scss/_global.scss */
 img {
+  display: block;
   max-width: 100%;
   width: 25%;
   padding: 5px; }
 
-/* line 22, /Users/aheredia/Desktop/movie-trailer/scss/_global.scss */
+/* line 23, /Users/aheredia/Desktop/movie-trailer/scss/_global.scss */
 header h1 {
   text-align: center;
   margin-top: 20px;
@@ -710,33 +711,33 @@ header h1 {
   font-family: 'Orbitron', sans-serif;
   color: white; }
 
-/* line 31, /Users/aheredia/Desktop/movie-trailer/scss/_global.scss */
+/* line 32, /Users/aheredia/Desktop/movie-trailer/scss/_global.scss */
 body {
   background-color: maroon; }
 
-/* line 35, /Users/aheredia/Desktop/movie-trailer/scss/_global.scss */
+/* line 36, /Users/aheredia/Desktop/movie-trailer/scss/_global.scss */
 h1 {
   color: white; }
 
-/* line 38, /Users/aheredia/Desktop/movie-trailer/scss/_global.scss */
+/* line 39, /Users/aheredia/Desktop/movie-trailer/scss/_global.scss */
 article {
   padding: 10px;
   text-align: center;
   font-family: 'Electrolize', sans-serif;
   color: white; }
 
-/* line 45, /Users/aheredia/Desktop/movie-trailer/scss/_global.scss */
+/* line 46, /Users/aheredia/Desktop/movie-trailer/scss/_global.scss */
 aside {
   font-family: 'Electrolize', sans-serif;
   color: white; }
 
-/* line 51, /Users/aheredia/Desktop/movie-trailer/scss/_global.scss */
+/* line 52, /Users/aheredia/Desktop/movie-trailer/scss/_global.scss */
 video {
   max-width: 100%;
   width: 100%;
   border: 3px solid white; }
 
-/* line 57, /Users/aheredia/Desktop/movie-trailer/scss/_global.scss */
+/* line 58, /Users/aheredia/Desktop/movie-trailer/scss/_global.scss */
 footer {
   text-align: center;
   font-family: 'Electrolize', sans-serif;
