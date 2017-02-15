@@ -1,15 +1,49 @@
 // Global Stylesheet
 
 // Color Palette
-$primary-color: gold;
-$secondary-color: purple;
+$primary-color: maroon;
+$secondary-color: white;
 
 // Typography
+    //Fonts used
+        //font-family: 'Oswald', sans-serif;
+        //font-family: 'Titillium Web', sans-serif;
+        //font-family: 'Orbitron', sans-serif;
+        //font-family: 'Electrolize', sans-serif;
+
+
+//body
+img{
+    max-width: 100%;
+    width: 25%;
+    padding: 5px;
+}
+
+header h1 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;   
+    font-size: 50px;
+    font-family: 'Orbitron', sans-serif;
+    color:white;
+}
+
+body {
+    background-color: maroon;
+}
 
 h1 {
     color: white;
 }
 article {
+    padding: 10px;
+    text-align: center;
+    font-family: 'Electrolize', sans-serif;
+    color: white;
+}
+
+aside {
+    font-family: 'Electrolize', sans-serif;
     color: white;
 }
 
@@ -17,4 +51,12 @@ article {
 video {
     max-width: 100%;
     width: 100%;
+    border: 3px solid white;
+}
+
+footer {
+    text-align: center;
+    font-family: 'Electrolize', sans-serif;
+    font-size: 11px;
+    color: white;
 }
